@@ -6,7 +6,7 @@ A modern, responsive shopping cart application built with React and Vite. Featur
 
 ## 🚀 Live Demo
 
-👉 https://react-investment-calculator-mu.vercel.app/
+👉 https://react-shop-cart-navy.vercel.app/
 
 ## 📸 Screenshots
 
